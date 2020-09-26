@@ -1,6 +1,7 @@
 (defproject cheffey "0.1.0-SNAPSHOT"
   :description "Cheffey REST API"
   :url "http://api.learnreitit.com"
+  :min-lein-version "2.0.0"
   :dependencies [[org.clojure/clojure "1.10.0"]
                  [ring "1.8.1"]
                  [integrant "0.8.0"]
