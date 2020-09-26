@@ -16,4 +16,4 @@
                    :resource-paths ["dev/resources"]
                    :dependencies [[ring/ring-mock "0.4.0"]
                                   [integrant/repl "0.3.1"]]}}
-  :uberjar-name "cheffy.jar")
+  :uberjar-name "cheffey.jar")
