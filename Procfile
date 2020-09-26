@@ -1,0 +1,1 @@
+web: java $JVM_OPTS -cp target/cheffey.jar clojure.main -m cheffey.server "resource/config.edn"
