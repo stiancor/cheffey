@@ -2,7 +2,7 @@
   :description "Cheffey REST API"
   :url "http://api.learnreitit.com"
   :min-lein-version "2.0.0"
-  :dependencies [[org.clojure/clojure "1.10.0"]
+  :dependencies [[org.clojure/clojure "1.10.2"]
                  [ring "1.8.1"]
                  [integrant "0.8.0"]
                  [environ "1.2.0"]
